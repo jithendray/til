@@ -36,7 +36,7 @@ Yes, using particular third-party SQL clients automatically generate DDLs for al
 
 > DBeaver is a SQL client software application and a database administration tool. For relational databases it uses the JDBC application programming interface to interact with databases via a JDBC driver. For other databases it uses proprietary database drivers.
 
-![]({{ site.baseurl }}/img/dbeaver_ddl.png)
+![](/img/dbeaver_ddl.png)
 
 
 ------**------
