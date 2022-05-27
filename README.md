@@ -14,3 +14,8 @@ A collection of short notes on small things I learn day to day. These are things
 ### aws
 
 * [Redshift: Generate DDL Create Table Statements](src/aws/redshift-generate-ddl.md)
+
+
+---
+
+© jithendrabsy - [Home](https://jithendrabsy.github.io/) - [GitHub](https://github.com/jithendrabsy/) - [Twitter](https://github.com/jithendrabsy/) - [LinkedIn](https://twitter.com/doomedripper)
