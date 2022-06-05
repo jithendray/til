@@ -18,4 +18,4 @@ A collection of short notes on small things I learn day to day. These are things
 
 ---
 
-© jithendrabsy - [Home](https://jithendrabsy.github.io/) - [GitHub](https://github.com/jithendrabsy/) - [Twitter](https://github.com/jithendrabsy/) - [LinkedIn](https://twitter.com/doomedripper)
+© jithendrabsy - [Home](https://jithendray.github.io/) - [GitHub](https://github.com/jithendrabsy/) - [Twitter](https://github.com/jithendrabsy/) - [LinkedIn](https://twitter.com/doomedripper)
